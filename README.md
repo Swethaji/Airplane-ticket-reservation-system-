@@ -1,6 +1,5 @@
 # Airplane-ticket-reservation-system-
-# RA2311003011170 - Swethaji. N (Poc)
-# RA2311003011166 - Johanna. J
+# RA2311003011170 - Swethaji. N
 
 
 #include<stdio.h>
